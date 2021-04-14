@@ -8,9 +8,9 @@
         "nat_forwards": "tcp(80:8282)"
     },
     "pkgs": [
-        "nginx",
+		"nginx",
 		"memcached",
-        "mysql80-server",
+		"mysql80-server",
 		"mysql80-client",
 		"php80-extensions",
 		"php80-bcmath",
@@ -32,7 +32,6 @@
 		"php80-zlib",
 		"sudo",
 		"vim-console"
-
     ],
     "revision": "0"
 }
