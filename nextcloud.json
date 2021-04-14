@@ -25,7 +25,7 @@
 		"php80-mbstring",
 		"php80-openssl",
 		"php80-pdo_mysql",
-		"php80-pecl_APCu",
+		"php80-pecl-APCu",
 		"php80-pecl-memcached",
 		"php80-xsl",
 		"php80-zip",
